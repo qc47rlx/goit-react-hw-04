@@ -10,7 +10,6 @@ export default function Loader(){
                 color="black"
             ariaLabel="infinity-spin-loading"
         />
-<p className={css.loadertext}>Just a moment...</p>
         </div>
     )
 }
